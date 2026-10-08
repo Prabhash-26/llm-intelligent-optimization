@@ -10,17 +10,15 @@
 
 ---
 
-## Direct Alignment with Angel One Agentic AI Internship
+## 
 
-This platform is engineered specifically to answer the core problems highlighted in the **Angel One Agentic AI Intern** mission:
-
-| Angel One Problem Statement | How This Platform Solves It | Implementation Module |
-|---|---|---|
-| **"Can an AI agent become every employee's go-to colleague?"** | Multi-Agent Swarm with dynamic Triage Agent, SRE Operations Agent, HR Co-pilot, and **Human-in-the-Loop (HITL) risk gates** for safe execution. | `agent/orchestrator.py` |
-| **"What if anyone could talk to data?"** | Plain-English query interface converting questions into real-time anomaly correlations, SQL synthesis, interactive charts, and decisions without dashboards. | `agent/talk_to_data.py` |
-| **"How do AI agents plug into the real world? Experiment with MCP."** | Full **Model Context Protocol (MCP)** tool server exposing standardized enterprise connectors (`query_telemetry`, `dispatch_jira`, `rebalance_cluster`, `combinatorial_optimizer`). | `agent/mcp_server.py` |
-| **"What work should humans do, and what should AI handle?"** | Explainable Role & Task Autonomy Matrix decomposing roles into % Autonomous AI, % Collaborative, and % Human-Only Judgment with career growth advice. | `agent/role_task_analyzer.py` |
-| **"How much of a process can run itself?"** | Autonomous end-to-end incident mitigation workflow with simulated order gateway spikes, combinatorial solver rebalancing, and approval checkpoints. | `agent/orchestrator.py` & `api/main.py` |
+| Core Enterprise Challenge | How This Platform Solves It | Implementation Module |
+| :--- | :--- | :--- |
+| **"Can an AI agent act as a reliable day-to-day colleague for every team member?"** | Multi-Agent Swarm architecture featuring a dynamic Triage Agent, SRE Operations Agent, HR Co-pilot, and **Human-in-the-Loop (HITL) risk gates** for secure execution. | `agent/orchestrator.py` |
+| **"How can non-technical users seamlessly query and derive insights from complex data?"** | Natural-language query interface converting plain English into real-time anomaly correlations, automated SQL synthesis, interactive charts, and actionable decisions without static dashboards. | `agent/talk_to_data.py` |
+| **"How do AI agents securely plug into external enterprise tools and protocols?"** | Full **Model Context Protocol (MCP)** server implementation exposing standardized enterprise connectors (`query_telemetry`, `dispatch_jira`, `rebalance_cluster`, `combinatorial_optimizer`). | `agent/mcp_server.py` |
+| **"How do we define the boundary between automated tasks and human oversight?"** | Explainable Role & Task Autonomy Matrix decomposing operational roles into fully autonomous, collaborative, and human-only judgment tiers with structured growth tracking. | `agent/role_task_analyzer.py` |
+| **"To what extent can end-to-end workflows execute autonomously?"** | Autonomous end-to-end incident mitigation workflows handling simulated traffic gateway spikes, combinatorial solver rebalancing, and structured approval checkpoints. | `agent/orchestrator.py` & `api/main.py` |
 
 ---
 
