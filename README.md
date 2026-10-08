@@ -5,7 +5,6 @@
 [![Protocol](https://img.shields.io/badge/Protocol-Model%20Context%20Protocol%20(MCP)-4B32C3)](https://modelcontextprotocol.io)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Production%20REST-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Gemini](https://img.shields.io/badge/LLM-Gemini%203.8%20Flash%20%2F%20GPT--4-8E75C4)](https://ai.google.dev)
-[![FinTech Ready](https://img.shields.io/badge/Target-Angel%20One%20FinTech%20Ops-0052CC)](https://angelone.in)
 
 > **Autonomous Multi-Agent Enterprise Intelligence, "Talk-to-Data" Telemetry Analytics, MCP Tool Orchestration, and Combinatorial Optimization Engine built for high-concurrency FinTech & People Operations.**
 
