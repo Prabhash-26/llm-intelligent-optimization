@@ -1,4 +1,4 @@
-# ⚡ OptiLLM Enterprise — Agentic AI Optimization & Operations Platform
+# OptiLLM Enterprise — Agentic AI Optimization & Operations Platform
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://python.org)
 [![Agent Framework](https://img.shields.io/badge/Architecture-Multi--Agent%20Swarm%20%2B%20HITL-FF6F00)](https://langchain.com)
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 Direct Alignment with Angel One Agentic AI Internship
+## Direct Alignment with Angel One Agentic AI Internship
 
 This platform is engineered specifically to answer the core problems highlighted in the **Angel One Agentic AI Intern** mission:
 
@@ -25,7 +25,7 @@ This platform is engineered specifically to answer the core problems highlighted
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
                                   ┌───────────────────────────────┐
@@ -69,7 +69,7 @@ This platform is engineered specifically to answer the core problems highlighted
 
 ---
 
-## 🚀 Key Modules & Capabilities
+##  Key Modules & Capabilities
 
 ### 1. Multi-Agent Orchestrator (`agent/orchestrator.py`)
 - Evaluates incoming queries with confidence and risk scoring (`LOW`, `MEDIUM`, `HIGH`, `CRITICAL`).
@@ -95,7 +95,7 @@ This platform is engineered specifically to answer the core problems highlighted
 
 ---
 
-## ⚡ Quickstart
+##  Quickstart
 
 ### 1. Clone & Install
 ```bash
@@ -124,11 +124,6 @@ npm run dev
 
 ---
 
-## 🏆 Interview Highlights for Angel One
-When presenting this in your interview, highlight:
-1. **Agentic System Design**: Not just an API wrapper—a full multi-agent graph with specialized roles, state machine, and human risk gating.
-2. **Production-First Protocols**: Usage of **MCP (Model Context Protocol)**, demonstrating you are at the forefront of modern AI agent standards.
-3. **Domain Relevance**: Solves real problems at Angel One scale—trading latency anomalies, workforce capacity scheduling, and employee self-service analytics.
 
 ---
-*Authored by Prabhash S | Ready for Angel One Agentic AI Internship*
+*Authored by Prabhash S |*
